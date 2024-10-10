@@ -1,0 +1,21 @@
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
+}
+
+.footer-texto {
+  font-size: 1.5rem;
+}
+
+.footer-lista li {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.footer-direito {
+  font-size: 1.4rem;
+}
