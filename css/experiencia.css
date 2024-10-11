@@ -11,6 +11,14 @@
   font-size: 1.5rem;
   max-width: 40ch;
   margin-bottom: 60px;
+  color: #525252;
+}
+.experiencia-texto strong {
+  color: #000000;
+}
+
+.experiencia .subtitulo {
+  color: #e0e0e0;
 }
 
 .projeto {
@@ -52,6 +60,10 @@
 .experiencia-lista li {
   padding: 10px 20px;
   background-color: white;
+}
+
+.experiencia-paragrafo {
+  color: #525252;
 }
 
 .experiencia-h3 {

@@ -1,3 +1,7 @@
+.formacao {
+  background-color: #141414;
+}
+
 .formacao-container {
   max-width: 1200px;
   margin: 0 auto;
@@ -11,6 +15,15 @@
   font-size: 1.5rem;
   max-width: 40ch;
   margin-bottom: 60px;
+  color: #a3a3a3;
+}
+
+.formacao-texto strong {
+  color: #ffffff;
+}
+
+.formacao .subtitulo {
+  color: #000000;
 }
 
 .formacao-lista {
@@ -20,7 +33,7 @@
 }
 
 .formacao-lista li {
-  background-color: #f5f5f5;
+  background-color: #080808;
   padding: 20px;
   border-radius: 4px;
   display: flex;
@@ -29,9 +42,18 @@
   flex: 1;
 }
 
+.formacao-tipo {
+  color: #a3a3a3;
+}
+
+.formacao-faculdade {
+  color: #a3a3a3;
+}
+
 .formacao-curso {
   display: flex;
   flex: 1;
+  color: #ffffff;
 }
 
 .formacao-adicional {
@@ -40,16 +62,27 @@
 
 .formacao-h3 {
   margin-bottom: 30px;
+  color: #8f8f8f;
 }
 
 .formacao-ad1 {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.formacao-ad1 span {
+  color: #8f8f8f;
 }
 
 .formacao-listaidioma li {
   margin-bottom: 20px;
   display: flex;
   gap: 4px;
+  color: #ffffff;
+}
+
+.formacao-listaidioma li span {
+  color: #8f8f8f;
 }
